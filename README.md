@@ -1,5 +1,4 @@
 ## Hey, I'm Tanishq Pathak
-<br/>
 
 #### Web Developer and Designer
 I'm a Computer Science Engineer and a <b> MERN </b> stack Developer with good knowledge in <b> UI/UX </b> design specializing in FrontEnd technologies. I"m currently learning data structures and algorithms.
