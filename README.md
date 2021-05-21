@@ -1,3 +1,5 @@
+<img src="main.png" />
+
 ## Hey, I'm Tanishq Pathak
 
 #### Web Developer and Designer
